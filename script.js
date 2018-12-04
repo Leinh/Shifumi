@@ -47,9 +47,9 @@ function result(a) {
     document.getElementById("viejoueur").innerHTML = viejoueur;
     document.getElementById("vieia").innerHTML = vieia;
 
-    if (viejoueur == 5 || vieia == 5) {
+    if (viejoueur == 3 || vieia == 3) {
 
-        if (viejoueur == 5) {
+        if (viejoueur == 3) {
             document.getElementById("result").innerHTML = "Bravo!";
         }
         else {
