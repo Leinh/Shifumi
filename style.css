@@ -65,3 +65,10 @@ body{
     border:3px solid white;
 
 }
+
+#choice{
+    display:flex;
+    flex-flow: row;
+    justify-content: space-around;
+    width: 500px;
+}
